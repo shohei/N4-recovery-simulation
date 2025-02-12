@@ -1,6 +1,6 @@
 clear; clc; close all;
 
-CD = 1.2;%1.2-1.5
+CD = 1.5;%1.2-1.5
 rho = 1.225;%kg/m^3
 D_drogue = 0.774;%m
 D_main = 2.95;%m
